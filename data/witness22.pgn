@@ -1,0 +1,5 @@
+[Event "B(1) >= 22: a king-fixed chain of 22 checks with one capture at Kd3/Ke5"]
+[FEN "qQbrn2B/1qR1R1Pq/n1b1B1r1/R1qnkN1R/n4N2/qn1KN2b/qR1n2nQ/QnrrQrr1 w - - 0 1"]
+[SetUp "1"]
+
+1. g8=N+ Ndf6+ 2. Ned5+ Qe3+ 3. Nxe3+ Rg5+ 4. Nf5+ Ne4+ 5. Rd2+ Nd4+ 6. Nc3+ Bb5+ 7. Bc4+ Ne6+ 8. Rcd7+ Qd6+ 9. Nfd5+ Rg3+ 10. Ne3+ Ng5+ 11. Ne4+ Nb2+ *

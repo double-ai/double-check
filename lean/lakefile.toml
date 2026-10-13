@@ -1,0 +1,22 @@
+name = "ChessProof"
+defaultTargets = ["ChessProof", "spectest", "enc63", "audit364", "routea"]
+
+[[lean_lib]]
+name = "ChessProof"
+globs = ["ChessProof", "ChessProof.+"]
+
+[[lean_exe]]
+name = "spectest"
+root = "SpecTest"
+
+[[lean_exe]]
+name = "enc63"
+root = "Enc63"
+
+[[lean_exe]]
+name = "audit364"
+root = "Audit364"
+
+[[lean_exe]]
+name = "routea"
+root = "RouteACheck"
